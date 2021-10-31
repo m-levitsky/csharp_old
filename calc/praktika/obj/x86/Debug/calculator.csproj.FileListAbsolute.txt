@@ -1,0 +1,11 @@
+/mnt/data/Documents/code/praktika/praktika/bin/Debug/praktika.exe
+/mnt/data/Documents/code/praktika/praktika/bin/Debug/praktika.pdb
+/mnt/data/Documents/code/praktika/praktika/obj/x86/Debug/calculator.csproj.CoreCompileInputs.cache
+/mnt/data/Documents/code/praktika/praktika/obj/x86/Debug/praktika.exe
+/mnt/data/Documents/code/praktika/praktika/obj/x86/Debug/praktika.pdb
+/mnt/sda2/Documents/code/calc/praktika/bin/Debug/calculator.exe
+/mnt/sda2/Documents/code/calc/praktika/bin/Debug/calculator.pdb
+/mnt/sda2/Documents/code/calc/praktika/obj/x86/Debug/calculator.csprojAssemblyReference.cache
+/mnt/sda2/Documents/code/calc/praktika/obj/x86/Debug/calculator.csproj.CoreCompileInputs.cache
+/mnt/sda2/Documents/code/calc/praktika/obj/x86/Debug/calculator.exe
+/mnt/sda2/Documents/code/calc/praktika/obj/x86/Debug/calculator.pdb
