@@ -1,0 +1,6 @@
+/mnt/sda2/Documents/code/metanit/metanit/bin/Debug/metanit.exe
+/mnt/sda2/Documents/code/metanit/metanit/bin/Debug/metanit.pdb
+/mnt/sda2/Documents/code/metanit/metanit/obj/x86/Debug/metanit.csprojAssemblyReference.cache
+/mnt/sda2/Documents/code/metanit/metanit/obj/x86/Debug/metanit.csproj.CoreCompileInputs.cache
+/mnt/sda2/Documents/code/metanit/metanit/obj/x86/Debug/metanit.exe
+/mnt/sda2/Documents/code/metanit/metanit/obj/x86/Debug/metanit.pdb
