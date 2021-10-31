@@ -1,0 +1,6 @@
+/mnt/data/Documents/code/day1/day1/bin/Debug/day1.exe
+/mnt/data/Documents/code/day1/day1/bin/Debug/day1.pdb
+/mnt/data/Documents/code/day1/day1/obj/x86/Debug/day1.csprojAssemblyReference.cache
+/mnt/data/Documents/code/day1/day1/obj/x86/Debug/day1.csproj.CoreCompileInputs.cache
+/mnt/data/Documents/code/day1/day1/obj/x86/Debug/day1.exe
+/mnt/data/Documents/code/day1/day1/obj/x86/Debug/day1.pdb
