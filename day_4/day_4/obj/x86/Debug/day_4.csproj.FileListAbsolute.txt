@@ -1,0 +1,6 @@
+/mnt/sda2/Documents/code/day_4/day_4/obj/x86/Debug/day_4.csprojAssemblyReference.cache
+/mnt/sda2/Documents/code/day_4/day_4/obj/x86/Debug/day_4.csproj.CoreCompileInputs.cache
+/mnt/sda2/Documents/code/day_4/day_4/bin/Debug/day_4.exe
+/mnt/sda2/Documents/code/day_4/day_4/bin/Debug/day_4.pdb
+/mnt/sda2/Documents/code/day_4/day_4/obj/x86/Debug/day_4.exe
+/mnt/sda2/Documents/code/day_4/day_4/obj/x86/Debug/day_4.pdb
