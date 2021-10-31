@@ -1,0 +1,6 @@
+/home/misha/Projects/day3_factorial/day3_factorial/obj/x86/Debug/day3_factorial.csprojAssemblyReference.cache
+/home/misha/Projects/day3_factorial/day3_factorial/obj/x86/Debug/day3_factorial.csproj.CoreCompileInputs.cache
+/home/misha/Projects/day3_factorial/day3_factorial/bin/Debug/day3_factorial.exe
+/home/misha/Projects/day3_factorial/day3_factorial/bin/Debug/day3_factorial.pdb
+/home/misha/Projects/day3_factorial/day3_factorial/obj/x86/Debug/day3_factorial.exe
+/home/misha/Projects/day3_factorial/day3_factorial/obj/x86/Debug/day3_factorial.pdb

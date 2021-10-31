@@ -1,0 +1,6 @@
+/mnt/sda2/Documents/code/day3_recursion/day3_recursion/bin/Debug/day3_recursion.exe
+/mnt/sda2/Documents/code/day3_recursion/day3_recursion/bin/Debug/day3_recursion.pdb
+/mnt/sda2/Documents/code/day3_recursion/day3_recursion/obj/x86/Debug/day3_recursion.csprojAssemblyReference.cache
+/mnt/sda2/Documents/code/day3_recursion/day3_recursion/obj/x86/Debug/day3_recursion.csproj.CoreCompileInputs.cache
+/mnt/sda2/Documents/code/day3_recursion/day3_recursion/obj/x86/Debug/day3_recursion.exe
+/mnt/sda2/Documents/code/day3_recursion/day3_recursion/obj/x86/Debug/day3_recursion.pdb

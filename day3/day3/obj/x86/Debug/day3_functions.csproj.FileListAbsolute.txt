@@ -1,0 +1,6 @@
+/home/misha/Projects/day3/day3/obj/x86/Debug/day3_functions.csprojAssemblyReference.cache
+/home/misha/Projects/day3/day3/obj/x86/Debug/day3_functions.csproj.CoreCompileInputs.cache
+/home/misha/Projects/day3/day3/bin/Debug/day3.exe
+/home/misha/Projects/day3/day3/bin/Debug/day3.pdb
+/home/misha/Projects/day3/day3/obj/x86/Debug/day3.exe
+/home/misha/Projects/day3/day3/obj/x86/Debug/day3.pdb
